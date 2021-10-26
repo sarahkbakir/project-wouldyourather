@@ -18,9 +18,9 @@ This is the second Udacity web developmenet {Professional track} ND program proj
 ## Project Structure:
 
 The main components are:
-- #### The Home (dash board of answerd and unanswered questions by all users including the logged in user)
-- #### The New Question page where the user have a form to fill in their two options and submit their questions to the list of questions not answered yet.
-- #### The Scores page (leaderboard) where all users have their scores shown, the count of their answered questions and the count of the questions they created before
+- ##### The Home (dash board of answerd and unanswered questions by all users including the logged in user)
+- ##### The New Question page where the user have a form to fill in their two options and submit their questions to the list of questions not answered yet.
+- ##### The Scores page (leaderboard) where all users have their scores shown, the count of their answered questions and the count of the questions they created before
 
 --- -------
 
